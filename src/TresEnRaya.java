@@ -1,3 +1,8 @@
+/*
+ CABECERA DEL PROYECTO
+ 
+ */
+
 import java.util.Scanner;
 import org.fusesource.jansi.Ansi;
 import org.fusesource.jansi.Ansi.Color;
